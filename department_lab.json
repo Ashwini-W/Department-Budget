@@ -1,0 +1,350 @@
+[
+  {
+    "id": "Mechanical Engineering",
+    "name": "Mechanical Engineering",
+    "parent_id": "0"
+  },
+  {
+    "id": "Electronics And Telecommunications Engineering",
+    "name": "Electronics And Telecommunications Engineering",
+    "parent_id": "0"
+  },
+  {
+    "id": "Instrumentation Engineering",
+    "name": "Instrumentation Engineering",
+    "parent_id": "0"
+  },
+  {
+    "id": "Computer Engineering",
+    "name": "Computer Engineering",
+    "parent_id": "0"
+  },
+  {
+    "id": "Information Technology",
+    "name": "Information Technology",
+    "parent_id": "0"
+  },
+  {
+    "id": "Civil Engineering",
+    "name": "Civil Engineering",
+    "parent_id": "0"
+  },
+  {
+    "id": "Applied Science And Humanities",
+    "name": "Applied Science And Humanities",
+    "parent_id": "0"
+  },
+
+  {
+    "id": "Basic Workshop",
+    "name": "Basic Workshop",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Machine Shop",
+    "name": "Machine Shop",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Engineering Drawing",
+    "name": "Engineering Drawing",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Strength Of Material",
+    "name": "Strength Of Material",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Fluid Mechanics",
+    "name": "Fluid Mechanics",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Computer Center",
+    "name": "Computer Center",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Heat Transfer",
+    "name": "Heat Transfer",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Internal Combustion Engines",
+    "name": "Internal Combustion Engines",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Mechanical Measurements And Control",
+    "name": "Mechanical Measurements And Control",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Metrology And Quality Engineering",
+    "name": "Metrology And Quality Engineering",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Kinematics/Dynamics Of Machinery",
+    "name": "Kinematics/Dynamics Of Machinery",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Automobile Engineering",
+    "name": "Automobile Engineering",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Automobile Engineering",
+    "name": "Automobile Engineering",
+    "parent_id": "Mechanical Engineering"
+  },
+
+  {
+    "id": "Refrigeration And Air Conditioning",
+    "name": "Refrigeration And Air Conditioning",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Mechatronics Lab",
+    "name": "Mechatronics Lab",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Thermal And Fluid Power",
+    "name": "Thermal And Fluid Power",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Material Technology",
+    "name": "Material Technology",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "Mechanical Utility System",
+    "name": "Mechanical Utility System",
+    "parent_id": "Mechanical Engineering"
+  },
+  {
+    "id": "TV And Microwave",
+    "name": "TV And Microwave",
+    "parent_id": "Electronics And Telecommunications Engineering"
+  },
+  {
+    "id": "Signal Processing",
+    "name": "Signal Processing",
+    "parent_id": "Electronics And Telecommunications Engineering"
+  },
+  {
+    "id": "Project Lab",
+    "name": "Project Lab",
+    "parent_id": "Electronics And Telecommunications Engineering"
+  },
+  {
+    "id": "Control And Instrumentation",
+    "name": "Control And Instrumentation",
+    "parent_id": "Electronics And Telecommunications Engineering"
+  },
+  {
+    "id": "Microprocessor And Embedded Laboratory",
+    "name": "Microprocessor And Embedded Laboratory",
+    "parent_id": "Electronics And Telecommunications Engineering"
+  },
+  {
+    "id": "Advance Communication",
+    "name": "Advance Communication",
+    "parent_id": "Electronics And Telecommunications Engineering"
+  },
+  {
+    "id": "Basic Electronics",
+    "name": "Basic Electronics",
+    "parent_id": "Electronics And Telecommunications Engineering"
+  },
+  {
+    "id": "BEE And Antenna",
+    "name": "BEE And Antenna",
+    "parent_id": "Electronics And Telecommunications Engineering"
+  },
+  {
+    "id": "Circuit Simulation",
+    "name": "Circuit Simulation",
+    "parent_id": "Electronics And Telecommunications Engineering"
+  },
+  {
+    "id": "Communication Lab",
+    "name": "Communication Lab",
+    "parent_id": "Electronics And Telecommunications Engineering"
+  },
+  {
+    "id": "Process Instrumentation Laboratory",
+    "name": "Process Instrumentation Laboratory",
+    "parent_id": "Instrumentation Engineering"
+  },
+  {
+    "id": "Sensors And Transducers Laboratory",
+    "name": "Sensors And Transducers Laboratory",
+    "parent_id": "Instrumentation Engineering"
+  },
+  {
+    "id": "Automation Laboratory",
+    "name": "Automation Laboratory",
+    "parent_id": "Instrumentation Engineering"
+  },
+  {
+    "id": "Analog And Digital Circuits Laboratory",
+    "name": "Analog And Digital Circuits Laboratory",
+    "parent_id": "Instrumentation Engineering"
+  },
+  {
+    "id": "Electrical And Electronics Laboratory",
+    "name": "Electrical And Electronics Laboratory",
+    "parent_id": "Instrumentation Engineering"
+  },
+  {
+    "id": "Biomedical And Analytical Instrumentation Laboratory",
+    "name": "Biomedical And Analytical Instrumentation Laboratory",
+    "parent_id": "Instrumentation Engineering"
+  },
+  {
+    "id": "Control And Computing Laboratory",
+    "name": "Control And Computing Laboratory",
+    "parent_id": "Instrumentation Engineering"
+  },
+  {
+    "id": "Embedded System And Applied Instrumentation Laboratory",
+    "name": "Embedded System And Applied Instrumentation Laboratory",
+    "parent_id": "Instrumentation Engineering"
+  },
+  {
+    "id": "Networking Lab",
+    "name": "Networking Lab",
+    "parent_id": "Computer Engineering"
+  },
+  {
+    "id": "Operating System Lab",
+    "name": "Operating System Lab",
+    "parent_id": "Computer Engineering"
+  },
+  {
+    "id": "DBMS Lab",
+    "name": "DBMS Lab",
+    "parent_id": "Computer Engineering"
+  },
+  {
+    "id": "Web Engineering Lab",
+    "name": "Web Engineering Lab",
+    "parent_id": "Computer Engineering"
+  },
+  {
+    "id": "Computer Programming Lab",
+    "name": "Computer Programming Lab",
+    "parent_id": "Computer Engineering"
+  },
+  {
+    "id": "Project Lab 1",
+    "name": "Project Lab 1",
+    "parent_id": "Computer Engineering"
+  },
+  {
+    "id": "Project Lab 2",
+    "name": "Project Lab 2",
+    "parent_id": "Computer Engineering"
+  },
+  {
+    "id": "Hardware Lab (Workshop Lab)",
+    "name": "Hardware Lab (Workshop Lab)",
+    "parent_id": "Computer Engineering"
+  },
+
+  {
+    "id": "Network Communication Laboratory",
+    "name": "Network Communication Laboratory",
+    "parent_id": "Information Technology"
+  },
+  {
+    "id": "Software Engineering Laboratory",
+    "name": "Software Engineering Laboratory",
+    "parent_id": "Information Technology"
+  },
+  {
+    "id": "Data Mining And Database Laboratory",
+    "name": "Data Mining And Database Laboratory",
+    "parent_id": "Information Technology"
+  },
+  {
+    "id": "Multimedia And Signal Processing Laboratory",
+    "name": "Multimedia And Signal Processing Laboratory",
+    "parent_id": "Information Technology"
+  },
+  {
+    "id": "Programming Laboratory",
+    "name": "Programming  Laboratory",
+    "parent_id": "Information Technology"
+  },
+  {
+    "id": "IOT And Sensor Laboratory",
+    "name": "IOT And Sensor Laboratory",
+    "parent_id": "Information Technology"
+  },
+  {
+    "id": "Project Laboratory",
+    "name": "Project Laboratory",
+    "parent_id": "Information Technology"
+  },
+  {
+    "id": "Electronic And Communication Laboratory",
+    "name": "Electronic And Communication Laboratory",
+    "parent_id": "Information Technology"
+  },
+  {
+    "id": "Engineering Mechanics Lab",
+    "name": "Engineering Mechanics Lab",
+    "parent_id": "Civil Engineering"
+  },
+  {
+    "id": "Engineering Survey Lab",
+    "name": "Engineering Survey Lab",
+    "parent_id": "Civil Engineering"
+  },
+  {
+    "id": "Engineering Geology Lab",
+    "name": "Engineering Geology Lab",
+    "parent_id": "Civil Engineering"
+  },
+  {
+    "id": "Transportation Engineering Lab",
+    "name": "Transportation Engineering Lab",
+    "parent_id": "Civil Engineering"
+  },
+  {
+    "id": "Geotech Lab",
+    "name": "Geotech Lab",
+    "parent_id": "Civil Engineering"
+  },
+  {
+    "id": "Applied Hydraulics Lab",
+    "name": "Applied Hydraulics Lab",
+    "parent_id": "Civil Engineering"
+  },
+  {
+    "id": "Building Material And Concrete Technology Lab",
+    "name": "Building Material And Concrete Technology Lab",
+    "parent_id": "Civil Engineering"
+  },
+  {
+    "id": "Environmental Engineering Lab",
+    "name": "Environmental Engineering Lab",
+    "parent_id": "Civil Engineering"
+  },
+  {
+    "id": "Applied Physics",
+    "name": "Applied Physics",
+    "parent_id": "Applied Science And Humanities"
+  },
+  {
+    "id": "Applied Chemistry",
+    "name": "Applied Chemistry",
+    "parent_id": "Applied Science And Humanities"
+  }
+]
