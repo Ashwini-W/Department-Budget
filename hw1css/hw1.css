@@ -1,0 +1,125 @@
+body {
+  padding: 1%;
+  margin: 1%;
+}
+
+header {
+  background-color: #848e66;
+  background-image: url("../images/vcetlogo1.jpg");
+  background-size: 100%;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+  color: #6e6868;
+  font-size: x-large;
+  text-transform: uppercase;
+}
+
+nav a {
+  display: inline-block;
+  margin: 2%;
+
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  -o-border-radius: 3;
+  border-radius: 5px;
+
+  text-decoration: none;
+  padding: 2%;
+
+  color: #000000;
+  text-align: center;
+  vertical-align: middle;
+  background-color: rgba(218, 234, 213, 0.6);
+
+  width: 150px;
+  height: 20px;
+}
+
+.active {
+  background-color: #ffffff;
+}
+
+.left {
+  background: linear-gradient(
+    to right,
+    rgb(87, 102, 120),
+    rgba(87, 102, 120, 0.5)
+  );
+  width: 20%;
+  float: left;
+  padding: 5% 0;
+}
+
+.right {
+  background-color: white;
+  width: 80%;
+  display: flex;
+  float: right;
+  padding-left: 2%;
+  flex-direction: row;
+}
+
+.left img {
+  border: solid 1px #a59b9b;
+  width: 80%;
+  margin: 10%;
+}
+
+table {
+  padding: 2%;
+  margin: 0 auto;
+  line-height: 50px;
+  /* width: 65%; */
+  width: 50%;
+  position: relative;
+
+  padding-bottom: 5%;
+  color: #e7e9f1;
+}
+th {
+  background-color: rgb(5, 46, 51);
+  padding: 2%;
+
+  font-variant: small-caps;
+  font-size: 100%;
+  color: #ffffff;
+  line-height: 40px;
+  border-radius: 10px 10px 0 0;
+  border-bottom: 2px solid #294b66;
+}
+
+th {
+  padding: 1%;
+}
+
+th,
+tr td {
+  text-align: center;
+}
+
+th:first-child,
+tr td:first-child {
+  text-align: left;
+}
+tr td {
+  opacity: 0.8;
+}
+
+tr:hover td {
+  opacity: 1;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 100%;
+  line-height: 69px;
+}
+td {
+  background-color: #163853;
+  padding-left: 2%;
+  padding-right: 2%;
+  font-size: 100%;
+  border-bottom: 2px solid #ffffff;
+}
